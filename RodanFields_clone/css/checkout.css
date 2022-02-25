@@ -1,0 +1,113 @@
+/* body{
+    width: 60%;
+    margin: auto;
+} */
+#display{
+  display: flex;
+  margin-left: 10%;
+}
+#checkoutpage{
+  text-align: center;
+}
+.inputboxsize{
+  width: 100%;
+  height: 35px;
+}
+#Checkoutcontunue{
+  width: 100%;
+  height: 40px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  letter-spacing: 2px;
+}
+#shippingbutton{
+width: 102%;
+  height: 40px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  letter-spacing: 2px;
+}  
+#check{
+  float: right;
+  margin-top: -0.1%;
+}
+#checkout_border{
+  border: 1px solid gray;
+  padding: 60px;
+}
+#shipping_boder{
+  border: 1px solid gray;
+  margin-top: 30px;
+  padding: 60px;
+}
+#checkoutorder{
+  margin-left: 5%;
+  border: 1px solid gray;
+  padding: 20px;
+  height: 60%;
+}
+#checkoutimg{
+  width: 30%;
+  float: left;
+}
+#nameofproduct{
+  margin-top: 10%;
+}
+#margin{
+  margin-top: 20%;
+}
+#sub{
+  float: right;
+  margin-top: -11%;
+}
+#billing{
+  border: 1px solid gray;
+  margin-top: 30px;
+  width: 100%;
+}
+#sub1{
+  float: right;
+  margin-top: -14%;
+}
+#persnal{
+  font-size: 15px;
+  width: 100%;
+  border: 1px solid gray;
+}
+
+#shipping_details{
+  font-size: 15px;
+  width: 100%;
+  border: 1px solid gray;
+  margin-top: 10%;
+}
+#margin_left{
+  margin-left: 30%;
+}
+#nameoncreaditcard{
+  width: 100%;
+  font-size: 20px;
+}
+#cardNumber{
+  width: 100%;
+  font-size: 20px;
+}
+#model{
+  width: 47%;
+}
+#creditcardbtn{
+  width: 102%;
+}
+#payment_alert{
+  margin-left: 30%;
+  color: red;
+}
+#confirm_btn{
+  width: 40%;
+  height: 30px;
+  margin-left: 30%;
+  background-color: rgb(44, 235, 19);
+  color: aliceblue;
+}

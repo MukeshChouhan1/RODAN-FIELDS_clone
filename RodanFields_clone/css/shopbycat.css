@@ -1,0 +1,47 @@
+#catagaery-heading{
+    text-align: center;
+}
+#catagery-text{
+    text-align: center;
+    width: 62%;
+    margin: auto;
+    font-size: 20px;
+    font-weight:100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#catagery-image{
+    width: 70%;
+    height: 400px;
+    margin-left: 10%;
+}
+#categery-show{
+    display: flex;
+    float: left;
+    align-items: center;
+    margin-left: 15%;
+    gap: 10px;
+    font-size: 20px;
+}
+#hr-style{
+  height:20px;
+}
+#catagery-product-name{
+    margin-left: 23%;
+}
+#pc-perk{
+  font-size: 15px;
+  color: rgb(14, 252, 240);
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#categery-shop-now{
+    margin-left: 12%;
+    width: 60%;
+    height: 50px;
+    background-color: white;
+}
+#categery-display{
+    display: grid;
+    grid-template-columns: repeat(4,33%);
+    margin-left: 7%;
+}

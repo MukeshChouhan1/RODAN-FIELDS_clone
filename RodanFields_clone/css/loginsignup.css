@@ -1,0 +1,174 @@
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 50px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+  }
+
+  /* Modal Content */
+  .modal-content {
+    background-color: #ffffff;
+    margin: auto;
+    padding: 40px;
+    border: 1px solid #888;
+    width: fit-content;
+    
+  }
+
+  /* The Close Button */
+  .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    margin-right: -30px;
+    margin-top: -40px;
+  }
+
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .rectangle {
+    width: 350px;
+    height: 600px;
+    margin: auto;
+  }
+  .button {
+    text-align: center;
+  }
+  .button > button {
+    width: 140px;
+    height: 30px;
+    font-size: large;
+    font-weight: bolder;
+   
+  }
+  .input > input {
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 1px solid #633a81;
+  }
+  .input > p {
+    font-size: 16px;
+    margin-left: 20px;
+    
+  }
+  .checkbox > input {
+    margin-left: 20px;
+    width: 30px;
+    height: 20px;
+  }
+  .checkbox > label {
+    font-size: 16px;
+  }
+  .submit > button {
+    margin-top: 20%;
+    margin-bottom: 5px;
+    margin-left: 16%;
+    width: 230px;
+    height: 40px;
+    border: none;
+    background-color: #633a81;
+    color: white;
+    font-size: 30px;
+  }
+  .submit > button:hover {
+    cursor: pointer;
+    color: black;
+    background-color: blanchedalmond;
+    border: 1px solid gray;
+  }
+  .forget {
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+
+  #myBtn{
+    color: rgb(126, 121, 121);
+    text-decoration: none;
+    width: 500px;
+  }
+#name1{
+  width: 100%;
+  margin-top: -3px;
+}
+#name{
+  margin-left: 4%;
+  width: 90%;
+  height: 30px;
+}
+#email{
+  margin-top: 20px;
+  margin-left: 4%;
+  width: 90%;
+  height: 30px;
+}
+#password{
+  margin-top: 20px;
+  margin-left: 4%;
+  width: 90%;
+  height: 30px;
+}
+#username{
+  margin-top: 20px;
+  margin-left: 4%;
+  width: 90%;
+  height: 30px;
+}
+#mobile{
+  margin-top: 20px;
+  margin-left: 4%;
+  width: 90%;
+  height: 30px;
+}
+#description{
+  margin-top: 20px;
+  margin-left: 4%;
+  width: 90%;
+  height: 30px;
+}
+#submit{
+  margin-top: 80px;
+  width: 100%;
+  height: 40px;
+  font-size: 20px;
+  background-color: black;
+  border: none;
+  color: whitesmoke;
+  border-radius: 5px;
+}
+
+#user{
+  margin-left: 4%;
+  width: 90%;
+  height: 40px;
+}
+#pass{
+  margin-top: 20px;
+  margin-left: 4%;
+  width: 90%;
+  height: 40px;
+}
+#sign-in{
+  margin-top: 100px;
+  width: 100%;
+  height: 40px;
+  font-size: 20px;
+  background-color:black;
+  border: none;
+  color: whitesmoke;
+  border-radius: 5px;
+}

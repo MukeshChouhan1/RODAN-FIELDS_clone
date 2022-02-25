@@ -1,0 +1,33 @@
+#details_display{
+    display: flex;
+    margin-left: 10%;
+}
+#detail_img{
+width: 70%;
+margin-left: 25%;
+}
+#details_of_product{
+    margin-top: 60px;
+}
+#detail_dis{
+    width: 60%;
+}
+#details_of_product>h3{
+    font-size: 30px;
+
+}
+#details_of_product>h3>span{
+    font-size: 20px;
+}
+#details_line{
+    width: 60%;
+    margin-right: 40%;
+}
+#custmise_btn{
+    width: 70%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}

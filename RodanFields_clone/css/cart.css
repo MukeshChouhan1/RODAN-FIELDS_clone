@@ -1,0 +1,129 @@
+h1{
+    text-align: center;
+  }
+  /* body{
+    width: 70%;
+    margin: auto;
+  } */
+  #pc-perk{
+     border: 1px solid rgb(119, 116, 116);;
+     width: 50%;
+     height: 200px;
+     background-color: rgb(201, 197, 197);
+     padding: 10px;
+     border-radius: 5px;
+     margin-left: 10%;
+     
+  }
+  #pc-perk>div>img{
+    margin-left: 40%;
+  }
+  #text_in_center1{
+    margin-left: 30%;
+    font-size: 20px;
+  }
+  #text_in_center2{
+    text-align: center;
+  }
+  #view_more{
+   margin-left: 40%;
+  }
+  #add_member{
+    margin-left: 25%;
+    width: 50%;
+    height: 40px;
+    margin-top: 5%;
+    background-color: black;
+    color: white;
+    
+  }
+  #img-size{
+    width: 20%;
+    height: 200px;
+  }
+  #add_prod{
+    display: flex;
+  }
+  #add_price{
+    float: right;
+    margin-right: 25%;
+  }
+  #item_name{
+    margin-top: 6%;
+    font-size: 20px;
+    margin-left: 4%;
+  }
+  #discreaption{
+    width: 60%;
+    margin-left: 4%;
+  }
+
+  #cart_display{
+    display: flex;
+  }
+  #product_div{
+    margin-top: 30px;
+    border: 1px solid gray;
+  }
+  #summery{
+    margin-left:5%;
+  }
+  #float_left{
+    float: right;
+    margin-top: -10%;
+  }
+  #promo{
+    width: 60%;
+    height: 40px;
+    font-size: 20px;
+  }
+  #apply_btn{
+    width: 7%;
+    height: 46px;
+    position:absolute;
+    font-size: 20px;
+  }
+  #continue_shopping{
+    width: 118%;
+    height: 40px;
+    font-size: 20px;
+    background-color: white;
+  }
+  #checkout{
+    width: 118%;
+    height: 40px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+  }
+  #border{
+    border: 1px solid gray;
+    width: 110%;
+    padding: 10px;
+  }
+  #f{
+    margin-left: 2%;
+  }
+  #subTotal{
+    float: right;
+    margin-top: -10%;
+  }
+  #estimated{
+    float: right;
+    margin-top: -13%;
+  }
+  .green{
+    color: rgb(6, 233, 6);
+    text-align: center;
+  }
+  .red{
+    color: red;
+    text-align: center;
+  }
+  #remove_btn{
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    height: 40px;
+  }

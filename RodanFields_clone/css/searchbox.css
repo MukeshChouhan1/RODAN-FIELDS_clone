@@ -1,0 +1,49 @@
+#display1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#inside_search_box {
+    width: 100%;
+    margin-left: 20%;
+}
+
+#img-display {
+    display: flex;
+}
+
+#common-serch {
+    margin-left: 20%;
+}
+
+#popular {
+    margin-left: 10%;
+}
+
+#text {
+    font-size: 20px;
+    width: 20%;
+    margin: 3%;
+}
+
+#search {
+    margin-left: 10%;
+    width: 80%;
+    height: 40px;
+    font-size: 25px;
+    background-color: rgb(223, 208, 210);
+}
+
+#search-text {
+    margin-left: 10%;
+}
+
+span {
+    float: right;
+    font-size: 30px;
+    margin-right: 10%;
+}
+
+#close {
+    cursor: pointer;
+}
